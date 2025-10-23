@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 For questions or feedback, reach out to:
-**Muhammad** – [your email or LinkedIn]
+**Muhammad** – [albanialhaji@gmail.com]
 
 ```
 
